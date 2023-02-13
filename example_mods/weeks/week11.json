@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Fuzz",
+			"fuzzy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Nutty",
+			"nutz",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Danger",
+			"fuzzy-nutz",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "fuzzynutz",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "BF - What if BF rap battled you? (Animation)",
+	"weekName": "Fuzzy and Nutz",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

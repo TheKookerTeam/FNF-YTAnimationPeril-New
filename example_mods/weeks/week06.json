@@ -1,0 +1,49 @@
+{
+	"storyName": "Znakomtes', eto Bob",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "bob",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bob",
+			"bob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Scar",
+			"scarred-bob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Cloned",
+			"robert",
+			[
+				146,
+				113,
+				253
+			]
+		],
+	],
+	"hideStoryMode": false,
+	"weekName": "Bob Week"
+}
