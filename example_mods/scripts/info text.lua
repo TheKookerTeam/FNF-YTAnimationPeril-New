@@ -25,7 +25,7 @@ local Quotes = {
     "hell nah aumsum have merch (its in www.aumsum.com)",
     "watch yo tone mf",
     "woah. I'm a rapper! - gametoons player",
-    "Don't swear on your YouTube Video or else Susan Wojkcicki will come to your house",
+    "Don't swear on your YouTube Video or else the demonitization demos will come to your house (/j)",
     "Copyright Striked",
     "This video is not available on YouTube",
     "Demonitized",
