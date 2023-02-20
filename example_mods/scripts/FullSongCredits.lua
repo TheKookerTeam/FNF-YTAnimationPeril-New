@@ -47,8 +47,8 @@ local songdata = {
     'Hazardous', -- Song Name [1]
     'Vencerist', -- Composer [2]
     '5', --  Length for onscreen [3]
-    'N/A', -- Artist [4]
-    'N/A', -- Charter [5]
+    'JareDrexz and', -- Artist [4]
+    'SLB7', -- Charter [5]
     },
 
     ['Finger Cut'] = {
