@@ -2,7 +2,7 @@ scoreName = "Score"
 missesName = "Copyright Strikes"
 ratingNames = "Rating"
 function onCreate()
-    makeLuaText('cornerMark', ('YOUTUBE ENGINE v0.6'), 1275, 0, 5)
+    makeLuaText('cornerMark', ('YOUTUBE ENGINE v0.7'), 1275, 0, 5)
   setTextAlignment('cornerMark', 'RIGHT')
   setTextBorder("cornerMark", 2, '000000')
   setTextSize('cornerMark', 18)
