@@ -280,7 +280,7 @@ local songdata = {
     'Isaiah Mods', -- Composer [2]
     '5', --  Length for onscreen [3]
     'Isaiah Mods and', -- Artist [4]
-    'N/A', -- Charter [5]
+    'CharlesCatYT', -- Charter [5]
     },
 
     ['Brew'] = {
